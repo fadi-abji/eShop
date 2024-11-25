@@ -4,7 +4,7 @@
     <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
     <AspnetVersion>8.0.4</AspnetVersion>
     <MicrosoftExtensionsVersion>8.4.0</MicrosoftExtensionsVersion>
-    <EfVersion>8.0.4</EfVersion>
+    <EfVersion>9.0.0</EfVersion>
     <AspireVersion>8.0.0-preview.6.24214.1</AspireVersion>
     <GrpcVersion>2.62.0</GrpcVersion>
     <DuendeVersion>7.0.4</DuendeVersion>
@@ -50,9 +50,9 @@
     <PackageVersion Include="Pgvector.EntityFrameworkCore" Version="0.2.0" />
     <!-- Version together with runtime -->
     <PackageVersion Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="8.0.0" />
-    <PackageVersion Include="Microsoft.Extensions.Options" Version="8.0.2" />
-    <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
-    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Options" Version="9.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="9.0.0" />
     <PackageVersion Include="Microsoft.Extensions.Logging.Console" Version="8.0.0" />
     <!-- Xabaril packages -->
     <PackageVersion Include="AspNetCore.HealthChecks.Uris" Version="8.0.1" />
